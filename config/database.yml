@@ -1,0 +1,16 @@
+
+development:
+  adapter: postgresql
+  database: devisebugtest 
+  host: localhost
+
+
+test:
+  adapter: postgresql
+  database: devisebugtest 
+  host: localhost
+
+production:
+  adapter: postgresql
+  database: devisebugtest 
+  host: localhost
